@@ -1,2 +1,2 @@
-# portfolio
-portfolio feito para uma atividade da faculdade
+# portifolio
+portifolio feito para uma atividade da faculdade
